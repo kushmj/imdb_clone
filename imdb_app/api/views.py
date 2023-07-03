@@ -128,6 +128,7 @@ class MovieListViewSet(viewsets.ModelViewSet):
             logger.error(f'Error occred while deleting the movie {str(e)}')
             return Response ({"Error":"Error occured while deleting movie list"}, status=status.HTTP_400_BAD_REQUEST)
 
+# views for ott plaform to oerform CRUD operations
 class OttListViewSet(viewsets.ModelViewSet):
     queryset = OttPlatform.objects.all()
     serializer_class = OttPlatformSerializer
