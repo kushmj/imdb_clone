@@ -1,0 +1,905 @@
+[2023-05-10 22:10:02,255] INFO imdb_app.api.views: Retrived purchase details
+[2023-05-11 00:03:44,617] INFO imdb_app.api.views: Retrived purchase details
+[2023-05-11 00:03:59,900] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 00:04:47,019] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 00:04:52,608] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 00:05:00,475] INFO imdb_app.api.views: Retrived movie detail of id 9
+[2023-05-11 00:05:07,059] INFO imdb_app.api.views: Retrived movie detail of id 9
+[2023-05-11 00:05:27,088] WARNING imdb_app.api.views: Movie detail of id 9 partially updated 
+[2023-05-11 00:05:50,329] ERROR imdb_app.api.views: Error occured while partially updating movie of id 9
+[2023-05-11 00:05:55,529] INFO imdb_app.api.views: Retrived movie detail of id 9
+[2023-05-11 00:05:58,594] WARNING imdb_app.api.views: Movie of id 9 deleted sucessfully
+[2023-05-11 00:07:00,296] INFO imdb_app.api.views: Retrived movie detail of id 10
+[2023-05-11 00:07:04,808] ERROR imdb_app.api.views: Error occured while partially updating movie of id 10
+[2023-05-11 00:07:51,326] ERROR imdb_app.api.views: Error occured while partially updating movie of id 10
+[2023-05-11 00:08:32,984] ERROR imdb_app.api.views: Updating of movie failed : cannot access local variable 'e' where it is not associated with a value
+[2023-05-11 00:12:12,142] WARNING imdb_app.api.views: Movie detail of id 10 partially updated 
+[2023-05-11 00:12:24,279] WARNING imdb_app.api.views: Movie detail of id 10 partially updated 
+[2023-05-11 00:13:08,010] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 00:14:01,553] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 00:14:16,409] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 00:14:30,210] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 00:14:38,423] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 00:16:56,303] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 00:42:33,386] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 00:42:33,388] ERROR imdb_app.api.views: Error while fetching movie list : 'Request' object has no attribute 'movie'
+[2023-05-11 00:45:26,180] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 00:46:40,644] INFO imdb_app.api.views: Retrived movie detail of id 10
+[2023-05-11 00:47:04,561] INFO imdb_app.api.views: Retrived movie detail of id 10
+[2023-05-11 00:47:04,561] ERROR imdb_app.api.views: Error while fetching movie of id 10 : 'Request' object has no attribute 'movie'
+[2023-05-11 00:47:15,950] INFO imdb_app.api.views: Retrived movie detail of id 10
+[2023-05-11 01:11:36,714] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:11:52,717] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 01:22:25,700] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 01:22:49,749] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 01:25:35,971] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 01:26:17,838] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 01:54:36,304] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:55:33,358] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:56:41,633] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:56:41,634] ERROR imdb_app.api.views: Error while fetching movie list : It is redundant to specify `source='ott_platfor_name'` on field 'CharField' in serializer 'MovieListSerializer', because it is the same as the field name. Remove the `source` keyword argument.
+[2023-05-11 01:57:01,141] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:57:01,143] ERROR imdb_app.api.views: Error while fetching movie list : It is redundant to specify `source='ott_platfor_name'` on field 'CharField' in serializer 'MovieListSerializer', because it is the same as the field name. Remove the `source` keyword argument.
+[2023-05-11 01:57:02,263] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:57:02,265] ERROR imdb_app.api.views: Error while fetching movie list : It is redundant to specify `source='ott_platfor_name'` on field 'CharField' in serializer 'MovieListSerializer', because it is the same as the field name. Remove the `source` keyword argument.
+[2023-05-11 01:57:30,631] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:58:33,758] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 01:59:02,309] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 16:53:48,298] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 17:08:52,299] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:25:21,991] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:25:55,313] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 19:26:32,523] ERROR imdb_app.api.views: Error occerd while creating the OTT : {'website_url': [ErrorDetail(string='Enter a valid URL.', code='invalid')]}
+[2023-05-11 19:27:25,174] ERROR imdb_app.api.views: Error occerd while creating the OTT : {'website_url': [ErrorDetail(string='Enter a valid URL.', code='invalid')]}
+[2023-05-11 19:28:28,900] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 19:28:49,558] ERROR imdb_app.api.views: Error occerd while creating the OTT : {'ott_name': [ErrorDetail(string='This field is required.', code='required')], 'about': [ErrorDetail(string='This field is required.', code='required')], 'website_url': [ErrorDetail(string='This field is required.', code='required')]}
+[2023-05-11 19:28:55,532] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:30:10,230] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:30:16,471] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 19:30:57,528] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 19:31:28,861] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 19:31:36,336] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:32:12,813] INFO imdb_app.api.views: OTT of id 5 retived sucessfully
+[2023-05-11 19:32:29,625] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 19:32:33,256] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:32:37,388] INFO imdb_app.api.views: OTT of id 5 retived sucessfully
+[2023-05-11 19:33:02,198] WARNING imdb_app.api.views: Partially updated the OTT details of id 5
+[2023-05-11 19:33:20,710] INFO imdb_app.api.views: OTT of id 6 retived sucessfully
+[2023-05-11 19:33:26,129] WARNING imdb_app.api.views: OTT details of id 6 is sucefully deleted
+[2023-05-11 19:33:49,693] ERROR imdb_app.api.views: Error occerd while retiving the OTT of ID 6 : OttPlatform matching query does not exist.
+[2023-05-11 19:33:56,737] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:34:08,939] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 19:34:17,628] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:34:22,505] INFO imdb_app.api.views: OTT of id 7 retived sucessfully
+[2023-05-11 19:34:24,730] WARNING imdb_app.api.views: OTT details of id 7 is sucefully deleted
+[2023-05-11 19:34:29,784] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 19:34:42,687] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:35:01,719] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 19:38:03,382] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 19:38:42,501] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 19:39:36,905] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 19:41:29,019] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 19:42:08,619] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 19:42:11,627] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 19:44:04,651] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 19:44:07,975] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:44:49,771] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:44:53,662] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:45:11,371] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:45:51,775] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:48:05,921] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:48:38,557] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 19:51:27,153] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 19:52:48,471] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:02:12,682] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:02:22,504] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:02:25,309] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:02:26,717] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:02:36,437] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 20:02:36,437] ERROR imdb_app.api.views: Error occerd while fetching OTT list Got AttributeError when attempting to get a value for field `ott` on serializer `OttPlatformSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `OttPlatform` instance.
+Original exception text was: 'OttPlatform' object has no attribute 'ott'.
+[2023-05-11 20:04:15,105] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 20:09:35,867] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:09:36,862] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:09:37,892] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:10:03,906] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:10:31,930] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 20:13:35,455] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 20:14:38,699] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 20:16:10,415] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-05-11 20:16:31,627] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:16:31,629] ERROR imdb_app.api.views: Error while fetching movie list : Got AttributeError when attempting to get a value for field `ott_platfor_name` on serializer `MovieListSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `MovieList` instance.
+Original exception text was: 'OttPlatform' object has no attribute 'name'.
+[2023-05-11 20:16:42,331] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 20:18:29,718] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 20:18:39,874] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 20:20:10,530] ERROR imdb_app.api.views: Creation faild with exception: Cannot resolve keyword 'name' into field. Choices are: about, id, movielist, ott_name, website_url
+[2023-05-11 20:20:36,253] ERROR imdb_app.api.views: Creation faild with exception: 'ottname'
+[2023-05-11 20:20:55,171] ERROR imdb_app.api.views: Creation faild with exception: Cannot resolve keyword 'name' into field. Choices are: about, id, movielist, ott_name, website_url
+[2023-05-11 20:23:37,531] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 20:43:04,223] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 20:43:23,141] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 20:47:01,954] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 20:47:14,067] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:52:24,520] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:52:35,632] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:52:43,584] ERROR imdb_app.api.views: Creation faild with exception: BaseManager.get_queryset() got an unexpected keyword argument 'ott_name'
+[2023-05-11 20:56:08,463] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 20:56:47,356] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 20:57:10,135] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 20:57:17,629] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 20:58:26,459] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 20:58:56,878] ERROR imdb_app.api.views: Error occerd while creating the OTT : {'movielist': [ErrorDetail(string='This field is required.', code='required')]}
+[2023-05-11 20:59:38,815] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 20:59:48,852] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-11 20:59:53,424] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 21:00:01,914] INFO imdb_app.api.views: OTT of id 9 retived sucessfully
+[2023-05-11 21:00:18,189] WARNING imdb_app.api.views: Partially updated the OTT details of id 9
+[2023-05-11 21:00:22,743] WARNING imdb_app.api.views: OTT details of id 9 is sucefully deleted
+[2023-05-11 21:00:29,534] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 21:01:03,048] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:01:52,722] ERROR imdb_app.api.views: Creation faild with exception: BaseManager.get_queryset() got an unexpected keyword argument 'ott_name'
+[2023-05-11 21:03:20,769] ERROR imdb_app.api.views: Creation faild with exception: 'Manager' object has no attribute 'get_'
+[2023-05-11 21:03:44,288] ERROR imdb_app.api.views: Creation faild with exception: 'Manager' object has no attribute 'get_'
+[2023-05-11 21:04:43,610] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 21:04:52,836] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:05:11,022] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 21:05:55,823] INFO imdb_app.api.views: Retrived movie detail of id 6
+[2023-05-11 21:05:59,319] WARNING imdb_app.api.views: Movie detail of id 6 partially updated 
+[2023-05-11 21:06:02,570] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:06:08,409] WARNING imdb_app.api.views: Movie of id 6 deleted sucessfully
+[2023-05-11 21:06:10,639] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:06:44,320] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:26:50,431] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:15,707] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:19,699] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:20,590] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:21,309] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:21,932] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:22,502] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:23,045] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:23,568] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:24,117] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:27,259] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:36,034] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:27:59,569] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:28:00,524] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:28:54,293] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 21:29:11,881] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 21:29:17,191] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:29:47,444] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:29:56,027] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 21:34:10,777] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:34:25,210] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 21:34:41,071] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 21:35:02,427] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 21:39:20,464] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:40:19,044] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 21:40:23,168] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 21:41:34,440] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 21:46:20,452] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-11 21:49:18,872] ERROR imdb_app.api.views: Error occured while creating new movie
+[2023-05-11 21:50:49,112] ERROR imdb_app.api.views: Error occured while creating new movie {'ott_platfor_name': {'non_field_errors': [ErrorDetail(string='Invalid data. Expected a dictionary, but got str.', code='invalid')]}}
+[2023-05-11 22:46:01,049] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 22:46:23,630] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 22:47:59,853] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-11 23:46:11,977] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 23:47:25,457] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 23:47:38,811] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 23:47:52,659] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 23:47:56,356] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-11 23:47:59,816] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 23:48:24,616] WARNING imdb_app.api.views: Movie detail of id 8 partially updated 
+[2023-05-11 23:48:26,878] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 23:48:31,133] WARNING imdb_app.api.views: Movie of id 8 deleted sucessfully
+[2023-05-11 23:48:33,339] INFO imdb_app.api.views: Retrived movie details
+[2023-05-11 23:48:50,979] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-12 20:31:12,758] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 20:31:30,283] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 20:31:58,020] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 20:34:00,767] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 20:35:52,546] WARNING imdb_app.api.views: Review detail of id 1 deleted sucesssfully
+[2023-05-12 20:49:14,839] ERROR imdb_app.api.views: Error while retriving the review of id 1
+[2023-05-12 20:49:40,938] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 20:52:50,141] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 20:53:18,860] ERROR imdb_app.api.views: Error while creating the review : {'review_movie_name': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+[2023-05-12 20:53:28,055] ERROR imdb_app.api.views: Error while creating the review : {'review_movie_name': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+[2023-05-12 20:53:34,460] ERROR imdb_app.api.views: Error while creating the review : {'review_movie_name': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+[2023-05-12 20:54:15,914] ERROR imdb_app.api.views: Error while creating the review : {'review_movie_name': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+[2023-05-12 20:55:16,960] ERROR imdb_app.api.views: Error while creating the review : {'review_movie_name': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+[2023-05-12 20:55:30,818] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 20:57:35,171] ERROR imdb_app.api.views: Error while creating the review : {'review_user': [ErrorDetail(string='Incorrect type. Expected pk value, received str.', code='incorrect_type')]}
+[2023-05-12 20:58:32,661] ERROR imdb_app.api.views: Error while creating the review : {'review_user': [ErrorDetail(string='review with this review user already exists.', code='unique')]}
+[2023-05-12 20:59:04,232] ERROR imdb_app.api.views: Error while creating the review : {'review_user': [ErrorDetail(string='Invalid pk "2" - object does not exist.', code='does_not_exist')]}
+[2023-05-12 20:59:16,987] ERROR imdb_app.api.views: Error while creating the review : {'review_user': [ErrorDetail(string='review with this review user already exists.', code='unique')]}
+[2023-05-12 20:59:25,885] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 21:00:08,078] ERROR imdb_app.api.views: Error while retriving the review of id 1
+[2023-05-12 21:00:16,267] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 21:00:24,308] WARNING imdb_app.api.views: Review detail of id 2 deleted sucesssfully
+[2023-05-12 21:00:28,469] INFO imdb_app.api.views: Review List retrived sucessfully
+[2023-05-12 21:38:10,418] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 21:39:31,210] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 21:40:44,967] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 21:40:44,989] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 21:40:52,113] ERROR imdb_app.api.views: Failed to retrieve reviews for purchase 1
+[2023-05-12 21:40:58,728] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-12 21:40:58,736] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-12 21:41:07,224] ERROR imdb_app.api.views: Failed to retrieve reviews for purchase 4
+[2023-05-12 21:53:48,013] ERROR imdb_app.api.views: Failed to retrieve reviews for purchase 4
+[2023-05-12 21:53:55,204] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 21:53:55,216] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 21:54:57,218] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-12 21:54:57,230] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-12 22:56:29,601] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-12 22:56:29,616] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-12 22:56:48,226] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 22:56:48,230] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 2
+[2023-05-12 22:56:56,911] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-12 22:56:56,914] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-12 22:57:02,994] ERROR imdb_app.api.views: Failed to retrieve reviews for purchase 4
+[2023-05-12 23:00:20,136] ERROR imdb_app.api.views: Error while retriving the review of id 1
+[2023-05-12 23:00:34,287] ERROR imdb_app.api.views: Error while retriving the review of id 2
+[2023-05-12 23:16:47,505] ERROR imdb_app.api.views: Error while creating the review : MovieList matching query does not exist.
+[2023-05-12 23:17:04,856] ERROR imdb_app.api.views: Error while creating the review : MovieList matching query does not exist.
+[2023-05-12 23:18:02,335] ERROR imdb_app.api.views: Error while creating the review : MovieList matching query does not exist.
+[2023-05-12 23:19:52,874] ERROR imdb_app.api.views: Error while creating the review : MovieList matching query does not exist.
+[2023-05-13 00:00:49,352] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-13 00:00:49,363] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-13 00:00:51,622] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-13 00:00:51,628] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 7
+[2023-05-13 00:16:56,705] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-13 00:16:56,720] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-13 00:17:29,375] ERROR imdb_app.api.views: Error while creating the review : Cannot resolve keyword 'review_user' into field. Choices are: created, description, id, rating, review_movie_name, review_movie_name_id, updated
+[2023-05-13 00:18:05,117] ERROR imdb_app.api.views: Error while creating the review : Cannot resolve keyword 'review_user' into field. Choices are: created, description, id, rating, review_movie_name, review_movie_name_id, updated
+[2023-05-13 00:29:05,191] ERROR imdb_app.api.views: Error while creating the review : Cannot resolve keyword 'review_user' into field. Choices are: created, description, id, rating, review_movie_name, review_movie_name_id, updated
+[2023-05-13 00:29:28,047] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-13 00:29:28,056] INFO imdb_app.api.views: Retrieved reviews successfully for purchase 3
+[2023-05-14 17:55:46,676] ERROR imdb_app.api.views: Error while retriving the review of id 1
+[2023-05-14 17:55:57,998] ERROR imdb_app.api.views: Error while retriving the review of id 2
+[2023-05-14 17:56:04,225] ERROR imdb_app.api.views: Error while retriving the review of id 3
+[2023-05-14 17:56:18,920] ERROR imdb_app.api.views: Error while retriving the review of id 1
+[2023-05-14 17:57:14,439] ERROR imdb_app.api.views: Error while retriving the review of id 1 : Review matching query does not exist.
+[2023-05-14 17:58:10,249] WARNING imdb_app.api.views: Review details of id 4 updated sucessfully
+[2023-05-14 18:10:45,256] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:11:13,885] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:11:38,714] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:11:56,154] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:13:50,118] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:13:52,557] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:14:11,883] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:15:02,373] ERROR imdb_app.api.views: Error while updating the review of id None
+[2023-05-14 18:16:16,185] WARNING imdb_app.api.views: Review details of id 5 updated sucessfully
+[2023-05-14 20:15:59,456] ERROR imdb_app.api.views: Error while updating the review of id 1
+[2023-05-14 20:16:06,068] ERROR imdb_app.api.views: Error while retriving the review of id 1 : Review matching query does not exist.
+[2023-05-14 20:16:53,804] WARNING imdb_app.api.views: Review details of id 4 updated sucessfully
+[2023-05-14 20:17:16,079] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:21:25,360] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:23:32,392] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:25:42,662] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:25:50,032] ERROR imdb_app.api.views: Error while retriving the review of id 4 : Review matching query does not exist.
+[2023-05-14 20:26:13,398] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:26:18,159] ERROR imdb_app.api.views: Error while retriving the review of id 7 : Review matching query does not exist.
+[2023-05-14 20:27:36,996] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:28:37,240] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:32:45,373] ERROR imdb_app.api.views: Error while retriving the review of id 10 : Review matching query does not exist.
+[2023-05-14 20:32:49,970] ERROR imdb_app.api.views: Error while retriving the review of id 11 : Review matching query does not exist.
+[2023-05-14 20:33:07,952] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:34:08,069] ERROR imdb_app.api.views: Error while deleting review of id 8
+[2023-05-14 20:35:42,839] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:35:50,522] ERROR imdb_app.api.views: Error while retriving the review of id 8 : Review matching query does not exist.
+[2023-05-14 20:38:18,405] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:39:39,244] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:39:56,272] ERROR imdb_app.api.views: Error while retriving the review of id 14 : Review matching query does not exist.
+[2023-05-14 20:40:02,755] ERROR imdb_app.api.views: Error while retriving the review of id 15 : Review matching query does not exist.
+[2023-05-14 20:48:27,007] WARNING imdb_app.api.views: Review detail of id None deleted sucesssfully
+[2023-05-14 20:50:56,720] WARNING imdb_app.api.views: Review detail of  deleted sucesssfully
+[2023-05-14 20:52:08,802] WARNING imdb_app.api.views: Review detail of id 14  deleted sucesssfully
+[2023-05-14 20:53:12,999] WARNING imdb_app.api.views: Review detail of id 15  deleted sucesssfully
+[2023-05-14 21:34:44,589] WARNING imdb_app.api.views: Review detail of id 16  deleted sucesssfully
+[2023-05-14 21:36:18,617] WARNING imdb_app.api.views: Review detail of id 17 deleted successfully
+[2023-05-14 21:36:22,286] ERROR imdb_app.api.views: Error while retriving the review of id 17 : Review matching query does not exist.
+[2023-05-14 21:37:41,215] ERROR imdb_app.api.views: Error while retriving the review of id 15 : Review matching query does not exist.
+[2023-05-14 21:37:47,016] ERROR imdb_app.api.views: Error while retriving the review of id 17 : Review matching query does not exist.
+[2023-05-14 21:37:57,033] WARNING imdb_app.api.views: Review detail of id 18 deleted successfully
+[2023-05-14 21:52:56,726] ERROR imdb_app.api.views: Failed to delete review detail of id : No Review matches the given query.
+[2023-05-14 21:53:38,677] WARNING imdb_app.api.views: Review detail of id  deleted successfully
+[2023-05-14 21:54:33,774] WARNING imdb_app.api.views: Review detail of id None  deleted successfully
+[2023-05-14 21:57:42,170] WARNING imdb_app.api.views: Review detail of id 22  deleted successfully
+[2023-05-15 17:17:41,801] ERROR imdb_app.api.views: Failed to retrive reviews for move id 22
+[2023-05-15 17:17:41,812] ERROR imdb_app.api.views: Error while fetching the data {'error': ErrorDetail(string='Movie does not exists for id 22', code='invalid')}
+[2023-05-15 17:18:28,274] ERROR imdb_app.api.views: Failed to retrive reviews for move id 23
+[2023-05-15 17:18:28,275] ERROR imdb_app.api.views: Error while fetching the data {'error': ErrorDetail(string='Movie does not exists for id 23', code='invalid')}
+[2023-05-15 17:21:30,895] ERROR imdb_app.api.views: Failed to retrive reviews for move id 23
+[2023-05-15 17:21:57,060] INFO imdb_app.api.views: Retrived reviews for movie id 2
+[2023-05-15 17:22:01,894] INFO imdb_app.api.views: Retrived reviews for movie id 1
+[2023-05-15 17:22:38,261] ERROR imdb_app.api.views: Failed to retrive reviews for move id 11
+[2023-05-15 17:31:23,967] ERROR imdb_app.api.views: Failed to create review for movie 11
+[2023-05-15 17:39:22,023] ERROR imdb_app.api.views: Failed to create review for movie 11
+[2023-05-15 17:39:50,088] ERROR imdb_app.api.views: Failed to create review for movie 11
+[2023-05-15 17:39:54,069] ERROR imdb_app.api.views: Failed to create review for movie 11
+[2023-05-15 17:40:50,066] ERROR imdb_app.api.views: Failed to create review for movie 11 movie of id 11 does not exists
+[2023-05-15 17:40:59,889] ERROR imdb_app.api.views: Failed to retrive reviews for move id 11 
+[2023-05-15 17:41:17,827] ERROR imdb_app.api.views: Failed to create review for movie 11 movie of id 11 does not exists
+[2023-05-15 17:44:07,220] ERROR imdb_app.api.views: Failed to create a review for movie ID 11. Movie with ID 11 does not exist.
+[2023-05-15 17:45:27,839] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:45:27,840] ERROR imdb_app.api.views: Failed to create review for movie 1 : {'error': ErrorDetail(string='You have alredy given the review for movie id 1', code='invalid')}
+[2023-05-15 17:45:54,639] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:45:54,639] ERROR imdb_app.api.views: Failed to create review for movie 1 : {'error': ErrorDetail(string='You have alredy given the review for movie id 1', code='invalid')}
+[2023-05-15 17:46:14,331] WARNING imdb_app.api.views: User has already given the review for movie id 2
+[2023-05-15 17:46:14,332] ERROR imdb_app.api.views: Failed to create review for movie 2 : {'error': ErrorDetail(string='You have alredy given the review for movie id 2', code='invalid')}
+[2023-05-15 17:46:16,243] WARNING imdb_app.api.views: User has already given the review for movie id 2
+[2023-05-15 17:46:16,244] ERROR imdb_app.api.views: Failed to create review for movie 2 : {'error': ErrorDetail(string='You have alredy given the review for movie id 2', code='invalid')}
+[2023-05-15 17:46:29,163] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:46:29,164] ERROR imdb_app.api.views: Failed to create review for movie 1 : {'error': ErrorDetail(string='You have alredy given the review for movie id 1', code='invalid')}
+[2023-05-15 17:49:25,295] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:49:34,080] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:49:34,080] ERROR imdb_app.api.views: Failed to create review for movie 1 : {'error': ErrorDetail(string='You have alredy given the review for movie id 1', code='invalid')}
+[2023-05-15 17:49:35,265] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:49:35,266] ERROR imdb_app.api.views: Failed to create review for movie 1 : {'error': ErrorDetail(string='You have alredy given the review for movie id 1', code='invalid')}
+[2023-05-15 17:49:35,903] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:49:35,903] ERROR imdb_app.api.views: Failed to create review for movie 1 : {'error': ErrorDetail(string='You have alredy given the review for movie id 1', code='invalid')}
+[2023-05-15 17:49:42,089] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:49:42,942] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 17:51:25,913] INFO imdb_app.api.views: Retrived the review id 24
+[2023-05-15 17:53:04,064] ERROR imdb_app.api.views: Error while retriving the review of id 244 : Review matching query does not exist.
+[2023-05-15 17:55:26,466] ERROR imdb_app.api.views: review of id does not exist244
+[2023-05-15 17:56:15,568] INFO imdb_app.api.views: Retrived the review id 24
+[2023-05-15 17:57:40,245] INFO imdb_app.api.views: Retrived the review id 24
+[2023-05-15 17:57:48,893] WARNING imdb_app.api.views: Review details of id 24 updated sucessfully
+[2023-05-15 17:58:53,559] ERROR imdb_app.api.views: Error while updating the review of id 24
+[2023-05-15 17:59:32,921] ERROR imdb_app.api.views: Error while updating the review of id 24 : JSON parse error - Expecting value: line 3 column 24 (char 36)
+[2023-05-15 17:59:52,425] WARNING imdb_app.api.views: Review details of id 24 updated sucessfully
+[2023-05-15 18:00:05,834] ERROR imdb_app.api.views: Failed to delete review detail of id : No Review matches the given query.
+[2023-05-15 18:00:16,341] WARNING imdb_app.api.views: Review detail of id 24  deleted successfully
+[2023-05-15 18:01:46,520] INFO imdb_app.api.views: Retrived movie details
+[2023-05-15 18:04:11,058] INFO imdb_app.api.views: Retrived movie details
+[2023-05-15 18:04:11,059] ERROR imdb_app.api.views: Error while fetching movie list : The field 'reviews' was declared on serializer MovieListSerializer, but has not been included in the 'fields' option.
+[2023-05-15 18:04:44,906] INFO imdb_app.api.views: Retrived movie details
+[2023-05-15 18:06:26,658] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-15 18:06:33,804] INFO imdb_app.api.views: Retrived movie details
+[2023-05-15 18:06:56,564] INFO imdb_app.api.views: Retrived movie detail of id 4
+[2023-05-15 18:07:23,589] WARNING imdb_app.api.views: Movie detail of id 4 partially updated 
+[2023-05-15 18:07:28,912] INFO imdb_app.api.views: Retrived movie detail of id 4
+[2023-05-15 18:07:33,445] INFO imdb_app.api.views: Retrived movie details
+[2023-05-15 18:24:12,790] INFO imdb_app.api.views: Retrived movie details
+[2023-05-15 18:24:19,435] ERROR imdb_app.api.views: Error occured while creating new movie {'movie_name': [ErrorDetail(string='This field is required.', code='required')], 'cast': [ErrorDetail(string='This field is required.', code='required')], 'date_of_movie_release': [ErrorDetail(string='This field is required.', code='required')], 'ott_platfor_name': [ErrorDetail(string='This field is required.', code='required')]}
+[2023-05-15 18:26:15,881] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-15 18:45:41,525] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-05-15 18:47:01,982] WARNING imdb_app.api.views: User has already given the review for movie id 1
+[2023-05-15 18:47:38,539] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-05-15 18:49:36,062] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-05-15 23:40:13,959] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-05-15 23:41:09,187] INFO imdb_app.api.views: Retrived reviews for movie id 1 
+[2023-05-15 23:43:12,386] INFO imdb_app.api.views: Retrived the review id 3
+[2023-05-15 23:43:21,076] INFO imdb_app.api.views: Retrived the review id 1
+[2023-05-15 23:48:08,143] INFO imdb_app.api.views: Retrived the review id 1
+[2023-05-15 23:48:14,068] INFO imdb_app.api.views: Retrived the review id 2
+[2023-05-15 23:48:35,498] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:50:49,244] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:50:51,521] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:51:03,632] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:51:28,280] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:51:29,513] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:51:30,485] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:51:31,316] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:51:38,934] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:52:51,322] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-15 23:53:46,773] WARNING imdb_app.api.views: Review details of id 1 updated sucessfully
+[2023-05-16 00:04:18,354] INFO imdb_app.api.views: Retrived the review id 1
+[2023-05-16 00:04:28,045] WARNING imdb_app.api.views: Review details of id 1 updated sucessfully
+[2023-05-16 00:04:34,813] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:06:45,403] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:07:34,303] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:07:36,007] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:07:46,192] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:09:49,879] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:12:28,850] WARNING imdb_app.api.views: Review details of id 3 updated sucessfully
+[2023-05-16 00:12:41,523] WARNING imdb_app.api.views: Review details of id 3 updated sucessfully
+[2023-05-16 00:14:07,970] WARNING imdb_app.api.views: Review details of id 3 updated sucessfully
+[2023-05-16 00:17:33,486] ERROR imdb_app.api.views: Error while updating the review of id 3 : You do not have permission to perform this action.
+[2023-05-16 00:18:10,921] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:18:13,104] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-05-16 00:18:19,532] ERROR imdb_app.api.views: Error while updating the review of id 1 : You do not have permission to perform this action.
+[2023-05-20 17:05:06,690] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:00:47,074] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:00:52,073] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:00:57,459] ERROR imdb_app.api.views: Error occured while creating new movie {'movie_name': [ErrorDetail(string='This field is required.', code='required')], 'category': [ErrorDetail(string='This field is required.', code='required')], 'cast': [ErrorDetail(string='This field is required.', code='required')], 'date_of_movie_release': [ErrorDetail(string='This field is required.', code='required')], 'ott_platfor_name': [ErrorDetail(string='This field is required.', code='required')]}
+[2023-05-21 17:01:07,774] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:04:05,454] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='Incorrect type. Expected pk value, received str.', code='incorrect_type')]}
+[2023-05-21 17:04:33,547] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 17:07:38,197] ERROR imdb_app.api.views: Creation faild with exception: Cannot assign "{'category_name': 'Action'}": "MovieList.category" must be a "Category" instance.
+[2023-05-21 17:15:50,080] ERROR imdb_app.api.views: Creation faild with exception: type object 'Category' has no attribute 'objectss'
+[2023-05-21 17:16:17,973] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 17:34:30,328] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:34:30,329] ERROR imdb_app.api.views: Error while fetching movie list : 'Request' object has no attribute 'movielist'
+[2023-05-21 17:34:58,335] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:36:00,221] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:36:00,222] ERROR imdb_app.api.views: Error while fetching movie list : 'Request' object has no attribute 'movie'
+[2023-05-21 17:36:30,266] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:38:29,895] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:38:29,896] ERROR imdb_app.api.views: Error while fetching movie list : 'str' object has no attribute '__dict__'
+[2023-05-21 17:38:31,787] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:38:31,788] ERROR imdb_app.api.views: Error while fetching movie list : 'str' object has no attribute '__dict__'
+[2023-05-21 17:39:28,604] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:39:51,218] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-05-21 17:41:02,587] ERROR imdb_app.api.views: Updating of movie failed : The `.update()` method does not support writable dotted-source fields by default.
+Write an explicit `.update()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-05-21 17:41:44,555] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 17:42:03,716] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 17:44:22,629] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 17:44:22,632] ERROR imdb_app.api.views: Creation faild with exception: 'Request' object has no attribute 'serializer'
+[2023-05-21 17:46:43,758] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 17:47:40,729] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 18:29:50,070] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 18:30:09,790] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 18:35:11,435] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 18:44:55,557] ERROR imdb_app.api.views: Creation faild with exception: [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 18:54:26,425] ERROR imdb_app.api.views: Creation faild with exception: [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 18:56:41,036] ERROR imdb_app.api.views: Creation faild with exception: [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:03:20,670] ERROR imdb_app.api.views: Creation faild with exception: [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:07:05,475] ERROR imdb_app.api.views: Error occured while creating new movie {'ott_platfor_name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+[2023-05-21 19:07:13,487] ERROR imdb_app.api.views: Creation faild with exception: [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:08:43,835] ERROR imdb_app.api.views: Creation faild with exception: [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:15:56,675] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 19:16:00,765] ERROR imdb_app.api.views: Error while fetching movie list : [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:21:30,885] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 19:21:34,944] ERROR imdb_app.api.views: Error while fetching movie list : [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:25:04,645] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 19:25:08,719] ERROR imdb_app.api.views: Error while fetching movie list : [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:25:28,121] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 19:25:32,184] ERROR imdb_app.api.views: Error while fetching movie list : [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:28:53,117] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 19:28:57,199] ERROR imdb_app.api.views: Error while fetching movie list : [WinError 10061] No connection could be made because the target machine actively refused it
+[2023-05-21 19:29:42,126] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 19:29:42,748] ERROR imdb_app.api.views: Error while fetching movie list : SMTP AUTH extension not supported by server.
+[2023-05-21 19:33:51,070] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 19:35:14,336] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 23:41:29,421] INFO imdb_app.api.views: Retrived movie details
+[2023-05-21 23:42:08,729] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj99@gmail.com
+[2023-05-21 23:42:12,077] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj11@gmail.com
+[2023-05-21 23:42:12,077] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 23:45:17,456] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj99@gmail.com
+[2023-05-21 23:45:21,591] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj11@gmail.com
+[2023-05-21 23:45:21,592] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-21 23:53:36,269] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj99@gmail.com
+[2023-05-21 23:53:39,600] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj11@gmail.com
+[2023-05-21 23:53:39,601] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-22 00:10:56,876] INFO imdb_app.api.views: Retrived movie details
+[2023-05-22 00:11:30,883] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-05-22 20:07:10,614] INFO imdb_app.api.views: Retrived movie details
+[2023-05-22 20:07:49,007] INFO imdb_app.api.views: Retrived movie details
+[2023-05-22 20:08:14,946] INFO imdb_app.api.views: Retrived movie details
+[2023-05-22 20:08:20,119] INFO imdb_app.api.views: Retrived movie details
+[2023-05-22 20:08:44,043] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj99@gmail.com
+[2023-05-22 20:08:47,492] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj11@gmail.com
+[2023-05-22 20:08:47,492] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-22 20:09:18,619] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj99@gmail.com
+[2023-05-22 20:09:22,086] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj11@gmail.com
+[2023-05-22 20:09:22,088] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-24 23:50:51,274] INFO imdb_app.api.views: Retrived movie details
+[2023-05-24 23:51:50,954] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj99@gmail.com
+[2023-05-24 23:51:54,297] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj11@gmail.com
+[2023-05-24 23:51:54,298] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-05-24 23:52:06,420] INFO imdb_app.api.views: Retrived movie detail of id 19
+[2023-05-24 23:52:26,562] WARNING imdb_app.api.views: Movie detail of id 19 partially updated 
+[2023-05-24 23:52:33,272] INFO imdb_app.api.views: Retrived movie detail of id 19
+[2023-05-24 23:53:16,409] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-24 23:54:29,416] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-24 23:54:32,946] INFO imdb_app.api.views: New OTT detail is created
+[2023-05-24 23:54:46,485] INFO imdb_app.api.views: OTT of id 2 retived sucessfully
+[2023-05-24 23:55:01,950] WARNING imdb_app.api.views: Partially updated the OTT details of id 2
+[2023-05-24 23:55:07,442] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-24 23:58:48,504] INFO imdb_app.api.views: Retrived reviews for movie id 1 
+[2023-05-24 23:58:56,305] INFO imdb_app.api.views: Retrived reviews for movie id 12 
+[2023-05-24 23:59:01,486] INFO imdb_app.api.views: Retrived reviews for movie id 10 
+[2023-05-24 23:59:14,784] INFO imdb_app.api.views: Retrived movie details
+[2023-05-24 23:59:30,871] INFO imdb_app.api.views: Retrived reviews for movie id 1 
+[2023-05-25 00:11:55,225] ERROR imdb_app.api.views: Failed to create a review for movie ID 2. Movie with ID 2 does not exist.
+[2023-05-25 00:13:06,359] WARNING imdb_app.api.views: User has already given the review for movie id 10
+[2023-05-25 00:14:15,417] WARNING imdb_app.api.views: Review details of id 4 updated sucessfully
+[2023-05-25 00:14:33,677] ERROR imdb_app.api.views: Failed to retrive reviews for move id 4 
+[2023-05-25 00:14:39,671] INFO imdb_app.api.views: Retrived reviews for movie id 9 
+[2023-05-25 00:15:17,226] INFO imdb_app.api.views: Retrived reviews for movie id 9 
+[2023-05-25 00:15:18,181] INFO imdb_app.api.views: Retrived reviews for movie id 9 
+[2023-05-25 00:16:54,883] INFO imdb_app.api.views: Retrived reviews for movie id 9 
+[2023-05-25 00:24:23,493] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:25:42,466] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:26:22,940] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:28:40,007] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-25 00:29:48,182] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:31:17,061] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:31:21,415] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:31:22,475] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:31:23,275] INFO imdb_app.api.views: Retrived movie details
+[2023-05-25 00:32:44,086] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-05-25 00:34:53,651] WARNING imdb_app.api.views: Movie detail of id 1 partially updated 
+[2023-05-25 00:36:57,526] WARNING imdb_app.api.views: Movie of id 14 deleted sucessfully
+[2023-05-25 00:45:36,601] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-05-25 00:48:52,435] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 15:21:56,053] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 15:23:57,039] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 15:27:03,982] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 15:28:10,519] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"[\'RPG\', \'Comedy\']" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:29:26,960] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"[\'RPG\', \'Comedy\']" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:31:01,269] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"[\'RPG\', \'Comedy\']" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:42:14,923] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"[\'RPG\', \'Comedy\']" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:44:35,307] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG,Comedy" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:46:56,358] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG,Comedy" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:47:14,169] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"[\'RPG\', \'Comedy\']" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:49:20,278] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:50:18,964] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='Expected a list of items but got type "str".', code='not_a_list')]}
+[2023-06-30 15:50:37,466] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG,Comedy" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:50:45,088] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:54:10,516] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"[\'RPG\', \'Comedy\']" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:56:44,102] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 15:59:23,363] ERROR imdb_app.api.views: Creation faild with exception: 'list' object has no attribute 'set'
+[2023-06-30 16:01:20,076] ERROR imdb_app.api.views: Creation faild with exception: 'list' object has no attribute 'category_name'
+[2023-06-30 16:01:24,929] ERROR imdb_app.api.views: Creation faild with exception: 'list' object has no attribute 'category_name'
+[2023-06-30 16:03:48,913] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:10:10,854] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:10:12,968] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"RPG" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:13:19,872] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:14:49,047] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:15:26,262] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:15:49,913] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 16:16:16,926] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:16:26,174] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 16:19:42,299] ERROR imdb_app.api.views: Error occured while creating new movie {'ott_platfor_name': [ErrorDetail(string='This field is required.', code='required')], 'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:38:19,203] ERROR imdb_app.api.views: Error occured while creating new movie {'ott_platfor_name': [ErrorDetail(string='This field is required.', code='required')], 'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 16:38:55,335] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')], 'ott_platfor_name': [ErrorDetail(string='This field is required.', code='required')]}
+[2023-06-30 16:39:34,558] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')], 'ott_platfor_name': [ErrorDetail(string='This field is required.', code='required')]}
+[2023-06-30 16:39:58,039] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='"Action" is not a valid choice.', code='invalid_choice')], 'ott_platfor_name': [ErrorDetail(string='This field is required.', code='required')]}
+[2023-06-30 16:51:07,690] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='Not a valid string.', code='invalid')], 'ott_platfor_name': [ErrorDetail(string='Invalid ott platform name. Allowed names: netflix.', code='invalid')]}
+[2023-06-30 16:51:19,438] ERROR imdb_app.api.views: Error occured while creating new movie {'category': [ErrorDetail(string='Not a valid string.', code='invalid')]}
+[2023-06-30 16:51:32,771] ERROR imdb_app.api.views: Creation faild with exception: unsupported operand type(s) for ** or pow(): 'str' and 'dict'
+[2023-06-30 16:52:05,854] ERROR imdb_app.api.views: Creation faild with exception: Cannot assign "'Action'": "MovieList.category" must be a "Category" instance.
+[2023-06-30 16:56:26,591] ERROR imdb_app.api.views: Creation faild with exception: Cannot assign "'Action'": "MovieList.category" must be a "Category" instance.
+[2023-06-30 16:57:06,626] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 16:58:10,700] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 16:58:16,940] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 17:42:08,979] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 17:42:43,829] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 17:44:23,351] ERROR imdb_app.api.views: Creation faild with exception: The `.create()` method does not support writable dotted-source fields by default.
+Write an explicit `.create()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-06-30 17:45:59,712] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-06-30 17:47:24,725] ERROR imdb_app.api.views: Error occured while creating new movie {'ott_platfor_name': [ErrorDetail(string='Incorrect type. Expected pk value, received str.', code='incorrect_type')]}
+[2023-06-30 17:47:37,029] ERROR imdb_app.api.views: Error occured while creating new movie {'ott_platfor_name': [ErrorDetail(string='Invalid ott platform name. Allowed names: netflix.', code='invalid')]}
+[2023-06-30 17:47:55,838] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-06-30 17:52:16,281] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-06-30 17:52:47,040] ERROR imdb_app.api.views: Creation faild with exception: {'ott_platfor_name': [ErrorDetail(string='Incorrect type. Expected pk value, received str.', code='incorrect_type')]}
+[2023-06-30 17:55:32,568] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-06-30 17:58:10,525] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-06-30 17:58:12,213] ERROR imdb_app.api.views: Creation faild with exception: NOT NULL constraint failed: imdb_app_movielist.ott_platfor_name_id
+[2023-06-30 17:59:17,811] ERROR imdb_app.api.views: Creation faild with exception: 'set' object has no attribute 'category_name'
+[2023-06-30 18:00:31,193] ERROR imdb_app.api.views: Creation faild with exception: 'set' object has no attribute 'category_name'
+[2023-06-30 18:04:47,942] ERROR imdb_app.api.views: Creation faild with exception: 'builtin_function_or_method' object is not subscriptable
+[2023-06-30 18:05:17,546] ERROR imdb_app.api.views: Creation faild with exception: {'category': [ErrorDetail(string='"[\'RPG\', \'Comedy\']" is not a valid choice.', code='invalid_choice')]}
+[2023-06-30 18:08:36,015] ERROR imdb_app.api.views: Creation faild with exception: 'builtin_function_or_method' object is not subscriptable
+[2023-06-30 18:08:50,362] ERROR imdb_app.api.views: Creation faild with exception: 'builtin_function_or_method' object is not subscriptable
+[2023-06-30 18:12:35,740] ERROR imdb_app.api.views: Creation faild with exception: 'str' object has no attribute 'set'
+[2023-06-30 18:24:11,543] ERROR imdb_app.api.views: Creation failed with exception: 'str' object has no attribute 'set'
+[2023-06-30 18:33:59,508] ERROR imdb_app.api.views: Creation failed with exception: 'str' object has no attribute 'set'
+[2023-06-30 18:34:00,677] ERROR imdb_app.api.views: Creation failed with exception: 'str' object has no attribute 'set'
+[2023-06-30 18:34:18,652] ERROR imdb_app.api.views: Creation failed with exception: 'str' object has no attribute 'set'
+[2023-06-30 19:52:16,198] ERROR imdb_app.api.views: Creation faild with exception: 'set' object has no attribute 'category_name'
+[2023-06-30 19:58:03,581] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 19:58:07,602] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 19:58:13,018] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:00:33,938] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:05:15,475] ERROR imdb_app.api.views: Error occured while creating new movie {}
+[2023-06-30 20:06:58,687] INFO imdb_app.api.views: New movie detail created successfully
+[2023-06-30 20:07:43,734] ERROR imdb_app.api.views: Error occured while creating new movie {}
+[2023-06-30 20:09:03,654] ERROR imdb_app.api.views: Error occured while creating new movie {}
+[2023-06-30 20:10:00,973] ERROR imdb_app.api.views: Creation faild with exception: cannot access local variable 'e' where it is not associated with a value
+[2023-06-30 20:10:41,388] ERROR imdb_app.api.views: Error occured while creating new movie {}
+[2023-06-30 20:11:26,352] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:16:48,410] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-06-30 20:17:09,656] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-06-30 20:17:38,375] INFO imdb_app.api.views: New OTT detail is created
+[2023-06-30 20:17:57,203] INFO imdb_app.api.views: New OTT detail is created
+[2023-06-30 20:18:03,918] INFO imdb_app.api.views: New OTT detail is created
+[2023-06-30 20:18:09,466] INFO imdb_app.api.views: OTT of id 2 retived sucessfully
+[2023-06-30 20:18:36,727] WARNING imdb_app.api.views: Partially updated the OTT details of id 2
+[2023-06-30 20:18:44,961] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-06-30 20:33:18,328] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 20:33:59,482] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:41:14,917] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:45:15,119] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:47:36,955] ERROR imdb_app.api.views: Creation faild with exception: Unsupported lookup 'category_name' for MultiSelectField or join on the field not permitted.
+[2023-06-30 20:47:51,070] ERROR imdb_app.api.views: Creation faild with exception: Unsupported lookup 'category' for MultiSelectField or join on the field not permitted.
+[2023-06-30 20:49:33,101] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:50:30,327] INFO imdb_app.api.views: Mail sent sucessfully to mail id kushmj33@gmail.com
+[2023-06-30 20:50:30,328] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:53:37,409] ERROR imdb_app.api.views: Creation faild with exception: Unsupported lookup 'overlap' for MultiSelectField or join on the field not permitted.
+[2023-06-30 20:55:53,929] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:56:21,561] INFO imdb_app.api.views: New movie detail created sucessfully
+[2023-06-30 20:56:49,087] INFO imdb_app.api.views: New movie detail created successfully
+[2023-06-30 20:58:23,636] INFO imdb_app.api.views: New movie detail created successfully
+[2023-06-30 20:59:09,585] ERROR imdb_app.api.views: Creation failed with exception: Unsupported lookup 'overlap' for MultiSelectField or join on the field not permitted.
+[2023-06-30 21:00:36,571] INFO imdb_app.api.views: Mail sent successfully to email: kushmj33@gmail.com
+[2023-06-30 21:00:40,338] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-06-30 21:00:43,514] INFO imdb_app.api.views: Mail sent successfully to email: kushmj33@gmail.com
+[2023-06-30 21:00:46,896] INFO imdb_app.api.views: Mail sent successfully to email: kushmj99@gmail.com
+[2023-06-30 21:00:50,653] INFO imdb_app.api.views: Mail sent successfully to email: kushmj99@gmail.com
+[2023-06-30 21:00:50,654] INFO imdb_app.api.views: New movie detail created successfully
+[2023-06-30 21:45:50,737] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-06-30 21:45:50,738] INFO imdb_app.api.views: New movie detail created successfully
+[2023-06-30 21:51:33,790] WARNING imdb_app.api.views: User has already given the review for movie id 13
+[2023-06-30 21:52:11,419] WARNING imdb_app.api.views: User has already given the review for movie id 12
+[2023-06-30 21:52:39,241] ERROR imdb_app.api.views: review of id does not exist12
+[2023-06-30 21:52:45,904] INFO imdb_app.api.views: Retrived the review id 1
+[2023-06-30 21:52:52,736] ERROR imdb_app.api.views: Failed to delete review detail of id : You do not have permission to perform this action.
+[2023-06-30 21:52:57,423] INFO imdb_app.api.views: Retrived the review id 1
+[2023-06-30 21:53:49,008] INFO imdb_app.api.views: Retrived reviews for movie id 12 
+[2023-06-30 21:54:19,810] INFO imdb_app.api.views: Retrived reviews for movie id 13 
+[2023-06-30 21:54:24,870] INFO imdb_app.api.views: Retrived reviews for movie id 11 
+[2023-06-30 21:54:35,408] INFO imdb_app.api.views: Retrived reviews for movie id 3 
+[2023-06-30 21:54:58,237] INFO imdb_app.api.views: Retrived the review id 2
+[2023-06-30 21:55:03,710] INFO imdb_app.api.views: Retrived the review id 3
+[2023-06-30 21:55:33,920] INFO imdb_app.api.views: Retrived the review id 3
+[2023-06-30 21:55:48,837] INFO imdb_app.api.views: Retrived the review id 3
+[2023-06-30 21:56:58,745] WARNING imdb_app.api.views: Review details of id 3 updated sucessfully
+[2023-06-30 21:57:05,619] ERROR imdb_app.api.views: Failed to delete review detail of id : You do not have permission to perform this action.
+[2023-06-30 22:02:24,715] ERROR imdb_app.api.views: Failed to delete review detail of id : You do not have permission to perform this action.
+[2023-06-30 22:02:58,981] ERROR imdb_app.api.views: Failed to delete review detail of id : You do not have permission to perform this action.
+[2023-06-30 22:07:14,812] INFO imdb_app.api.views: Retrived the review id 3
+[2023-06-30 22:07:21,706] WARNING imdb_app.api.views: Review details of id 3 updated sucessfully
+[2023-06-30 22:07:27,119] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-06-30 22:08:00,061] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-06-30 22:11:00,025] WARNING imdb_app.api.views: Review details of id 2 updated sucessfully
+[2023-06-30 22:13:56,142] ERROR imdb_app.api.views: Error while updating the review of id 3 : You do not have permission to perform this action.
+[2023-06-30 22:14:04,093] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 22:14:25,895] ERROR imdb_app.api.views: Error while updating the review of id 1 : You do not have permission to perform this action.
+[2023-06-30 22:14:33,029] ERROR imdb_app.api.views: Error while updating the review of id 3 : You do not have permission to perform this action.
+[2023-06-30 22:19:37,567] ERROR imdb_app.api.views: Error while updating the review of id 3 : You do not have permission to perform this action.
+[2023-06-30 23:12:07,845] WARNING imdb_app.api.views: Review details of id 3 updated sucessfully
+[2023-06-30 23:12:23,756] WARNING imdb_app.api.views: Review details of id 1 updated sucessfully
+[2023-06-30 23:12:33,837] WARNING imdb_app.api.views: Review detail of id 1 deleted successfully
+[2023-06-30 23:12:40,279] ERROR imdb_app.api.views: review of id does not exist1
+[2023-06-30 23:14:08,433] INFO imdb_app.api.views: Retrived the review id 2
+[2023-06-30 23:14:13,855] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:15:01,517] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:15:20,431] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:15:42,242] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:16:17,047] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:16:36,258] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:22:02,898] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:23:01,370] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:23:02,931] ERROR imdb_app.api.views: Error while updating the review of id 2 : You do not have permission to perform this action.
+[2023-06-30 23:26:29,907] INFO imdb_app.api.views: Retrived the review id 4
+[2023-06-30 23:26:39,461] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-06-30 23:26:47,257] INFO imdb_app.api.views: Retrived the review id 4
+[2023-06-30 23:27:22,509] INFO imdb_app.api.views: Retrived the review id 4
+[2023-06-30 23:27:33,113] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-06-30 23:31:02,244] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-06-30 23:37:12,109] INFO imdb_app.api.views: Retrived movie details
+[2023-06-30 23:37:50,296] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-06-30 23:38:05,454] INFO imdb_app.api.views: Retrived movie detail of id 15
+[2023-06-30 23:38:11,009] INFO imdb_app.api.views: Retrived movie detail of id 5
+[2023-06-30 23:38:38,330] INFO imdb_app.api.views: Retrived movie detail of id 5
+[2023-06-30 23:38:42,088] WARNING imdb_app.api.views: Movie of id 5 deleted sucessfully
+[2023-06-30 23:52:38,729] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-06-30 23:56:05,815] ERROR imdb_app.api.views: Error while fetching movie of id 5 : MovieList matching query does not exist.
+[2023-06-30 23:56:17,835] INFO imdb_app.api.views: Retrived movie detail of id 4
+[2023-06-30 23:57:04,912] INFO imdb_app.api.views: Mail sent successfully to email: kushmj33@gmail.com
+[2023-06-30 23:57:08,246] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-06-30 23:57:11,905] INFO imdb_app.api.views: Mail sent successfully to email: kushmj33@gmail.com
+[2023-06-30 23:57:16,246] INFO imdb_app.api.views: Mail sent successfully to email: kushmj99@gmail.com
+[2023-06-30 23:57:19,777] INFO imdb_app.api.views: Mail sent successfully to email: kushmj99@gmail.com
+[2023-06-30 23:57:23,159] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-06-30 23:57:23,160] INFO imdb_app.api.views: New movie detail created successfully
+[2023-06-30 23:57:34,239] INFO imdb_app.api.views: Retrived movie detail of id 17
+[2023-06-30 23:57:59,140] ERROR imdb_app.api.views: Updating of movie failed : The `.update()` method does not support writable dotted-source fields by default.
+Write an explicit `.update()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-06-30 23:58:15,686] ERROR imdb_app.api.views: Updating of movie failed : The `.update()` method does not support writable dotted-source fields by default.
+Write an explicit `.update()` method for serializer `imdb_app.api.serializers.MovieListSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-06-30 23:58:29,776] ERROR imdb_app.api.views: Error occured while updating movie of id 17
+[2023-06-30 23:58:34,743] WARNING imdb_app.api.views: Movie detail of id 17 partially updated 
+[2023-06-30 23:58:49,204] INFO imdb_app.api.views: Retrived movie detail of id 1
+[2023-06-30 23:58:53,508] WARNING imdb_app.api.views: Movie detail of id 1 partially updated 
+[2023-06-30 23:59:02,233] WARNING imdb_app.api.views: Movie detail of id 4 partially updated 
+[2023-06-30 23:59:03,896] WARNING imdb_app.api.views: Movie detail of id 4 partially updated 
+[2023-06-30 23:59:09,131] WARNING imdb_app.api.views: Movie of id 4 deleted sucessfully
+[2023-07-01 00:08:02,498] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-07-01 00:08:46,183] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-07-01 00:10:44,495] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-07-01 00:11:05,856] INFO imdb_app.api.views: Retrived the review id 4
+[2023-07-01 00:12:24,430] INFO imdb_app.api.views: Retrived the review id 4
+[2023-07-01 00:12:36,204] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-07-01 00:13:25,778] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-07-01 00:14:25,232] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-07-01 00:14:58,428] ERROR imdb_app.api.views: Error while updating the review of id 4 : You do not have permission to perform this action.
+[2023-07-01 00:16:10,100] ERROR imdb_app.api.views: Error while updating the review of id 4: You do not have permission to perform this action.
+[2023-07-01 00:50:03,467] ERROR imdb_app.api.views: Error while updating the review of id 2: You do not have permission to perform this action.
+[2023-07-01 00:50:14,905] ERROR imdb_app.api.views: Error while updating the review of id 5: You do not have permission to perform this action.
+[2023-07-01 00:51:41,069] ERROR imdb_app.api.views: Error while updating the review of id 5: You do not have permission to perform this action.
+[2023-07-01 00:52:28,490] ERROR imdb_app.api.views: Error while updating the review of id 5: You do not have permission to perform this action.
+[2023-07-01 00:53:52,624] ERROR imdb_app.api.views: Error while updating the review of id 5: You do not have permission to perform this action.
+[2023-07-02 16:56:14,948] INFO imdb_app.api.views: Retrived the review id 7
+[2023-07-02 16:57:05,559] INFO imdb_app.api.views: Retrived the review id 7
+[2023-07-02 16:57:11,765] WARNING imdb_app.api.views: Review details of id 7 updated successfully
+[2023-07-02 16:57:15,282] INFO imdb_app.api.views: Retrived the review id 7
+[2023-07-02 16:57:20,946] WARNING imdb_app.api.views: Review detail of id 7  deleted successfully
+[2023-07-02 17:19:37,928] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-07-02 17:20:23,875] INFO imdb_app.api.views: New OTT detail is created
+[2023-07-02 17:20:28,533] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-07-02 17:21:06,474] ERROR imdb_app.api.views: Error occerd while retiving the OTT of ID 6 : OttPlatform matching query does not exist.
+[2023-07-02 17:21:13,701] INFO imdb_app.api.views: OTT of id 5 retived sucessfully
+[2023-07-02 17:21:20,776] WARNING imdb_app.api.views: Partially updated the OTT details of id 5
+[2023-07-02 17:21:57,619] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 17:24:06,164] ERROR imdb_app.api.views: Creation failed with exception: OttPlatform matching query does not exist.
+[2023-07-02 17:24:26,126] ERROR imdb_app.api.views: Error occurred while creating a new movie: {'ott_platfor_name': [ErrorDetail(string='Invalid ott platform name. Allowed names: Netflix, Prime, Hotstar, Primeknown.', code='invalid')]}
+[2023-07-02 17:25:06,073] INFO imdb_app.api.views: Mail sent successfully to email: kushmj33@gmail.com
+[2023-07-02 17:25:09,223] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-07-02 17:25:13,099] INFO imdb_app.api.views: Mail sent successfully to email: kushmj33@gmail.com
+[2023-07-02 17:25:16,259] INFO imdb_app.api.views: Mail sent successfully to email: kushmj99@gmail.com
+[2023-07-02 17:25:19,395] INFO imdb_app.api.views: Mail sent successfully to email: kushmj99@gmail.com
+[2023-07-02 17:25:22,623] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-07-02 17:25:22,624] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-02 17:26:17,166] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-07-02 17:26:17,166] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-02 17:27:31,632] INFO imdb_app.api.views: Retrived movie detail of id 15
+[2023-07-02 17:27:39,046] INFO imdb_app.api.views: Retrived movie detail of id 17
+[2023-07-02 17:27:43,899] ERROR imdb_app.api.views: Error while fetching movie of id 25 : MovieList matching query does not exist.
+[2023-07-02 17:27:47,774] ERROR imdb_app.api.views: Error while fetching movie of id 20 : MovieList matching query does not exist.
+[2023-07-02 17:27:52,635] INFO imdb_app.api.views: Retrived movie detail of id 19
+[2023-07-02 17:27:59,370] WARNING imdb_app.api.views: Movie detail of id 19 partially updated 
+[2023-07-02 17:28:17,721] ERROR imdb_app.api.views: review of id does not exist7
+[2023-07-02 17:29:44,579] WARNING imdb_app.api.views: User has already given the review for movie id 19
+[2023-07-02 17:30:41,786] INFO imdb_app.api.views: Retrived the review id 8
+[2023-07-02 17:30:56,280] INFO imdb_app.api.views: Retrived the review id 16
+[2023-07-02 17:31:04,547] WARNING imdb_app.api.views: Review details of id 16 updated successfully
+[2023-07-02 19:32:57,923] INFO imdb_app.api.views: Retrived the review id 16
+[2023-07-02 19:33:23,010] INFO imdb_app.api.views: Retrived the review id 16
+[2023-07-02 19:37:06,729] INFO imdb_app.api.views: Retrived the review id 20
+[2023-07-02 19:37:10,452] WARNING imdb_app.api.views: Review detail of id 20  deleted successfully
+[2023-07-02 19:37:26,589] ERROR imdb_app.api.views: review of id does not exist20
+[2023-07-02 19:38:22,632] INFO imdb_app.api.views: Retrived movie detail of id 19
+[2023-07-02 19:39:31,720] WARNING imdb_app.api.views: Movie of id 19 deleted sucessfully
+[2023-07-02 19:40:05,891] INFO imdb_app.api.views: OTT of id 5 retived sucessfully
+[2023-07-02 19:40:14,750] WARNING imdb_app.api.views: OTT details of id 5 is sucefully deleted
+[2023-07-02 19:55:44,885] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 19:57:21,620] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 19:57:49,877] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 19:57:49,904] ERROR imdb_app.api.views: Error while fetching movie list : GenericAPIView.get_paginated_response() got an unexpected keyword argument 'status'
+[2023-07-02 19:58:21,294] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 19:58:53,960] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 19:59:32,730] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:00:43,487] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:01:03,885] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:02:58,694] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:07,071] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:20,048] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:27,702] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:32,841] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:36,999] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:41,197] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:44,698] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:48,901] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:03:57,709] ERROR imdb_app.api.views: Error while fetching movie list : Invalid page.
+[2023-07-02 20:04:46,075] ERROR imdb_app.api.views: Error while fetching movie list : Cannot resolve keyword 'created' into field. Choices are: avg_rating, cast, category, date_of_movie_release, id, movie_name, number_of_ratings, ott_platfor_name, ott_platfor_name_id, reviews
+[2023-07-02 20:07:12,337] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:07:25,238] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:08:38,538] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:08:46,601] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:09:01,104] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:09:26,342] ERROR imdb_app.api.views: review of id does not exist20
+[2023-07-02 20:09:38,941] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:09:39,786] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:43:31,395] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:43:52,597] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:44:02,949] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 20:46:55,912] INFO imdb_app.api.views: Retrived reviews for movie id 1 
+[2023-07-02 20:48:48,866] INFO imdb_app.api.views: Retrived reviews for movie id 1 
+[2023-07-02 20:48:58,223] INFO imdb_app.api.views: Retrived reviews for movie id 1 
+[2023-07-02 20:49:06,981] INFO imdb_app.api.views: Retrived reviews for movie id 2 
+[2023-07-02 20:49:10,721] ERROR imdb_app.api.views: Failed to retrive reviews for move id 5 
+[2023-07-02 20:50:07,641] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:50:32,362] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:51:05,497] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:51:41,784] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:53:41,031] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:55:13,425] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:55:24,410] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:55:36,761] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:56:34,025] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:56:42,061] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:57:43,893] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:57:51,106] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:58:12,284] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:58:23,113] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 20:58:40,255] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:00:04,368] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:00:44,168] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:02:05,028] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:02:08,937] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:02:12,214] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:02:15,409] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:02:18,911] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:02:22,277] INFO imdb_app.api.views: Retrived reviews for movie id 16 
+[2023-07-02 21:14:55,650] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 21:15:08,866] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 21:15:30,464] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 21:15:59,189] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 21:16:39,590] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 21:19:13,268] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 21:19:29,073] INFO imdb_app.api.views: Retrived movie details
+[2023-07-02 21:19:34,557] ERROR imdb_app.api.views: Error while fetching movie of id kgf : Field 'id' expected a number but got 'kgf'.
+[2023-07-02 21:19:44,849] INFO imdb_app.api.views: Retrived movie details
+[2023-07-03 17:19:43,520] INFO imdb_app.api.views: User details of id 1 is retrived
+[2023-07-03 17:30:30,378] INFO imdb_app.api.views: User details of id 1 is retrived
+[2023-07-03 17:31:02,338] ERROR imdb_app.api.views: Error while updating user deatil of id 1: strThe `.update()` method does not support writable dotted-source fields by default.
+Write an explicit `.update()` method for serializer `imdb_app.api.serializers.UserProfileSerializer`, or set `read_only=True` on dotted-source serializer fields.
+[2023-07-03 17:37:10,895] INFO imdb_app.api.views: User details of id 1 is retrived
+[2023-07-03 17:38:20,674] INFO imdb_app.api.views: User details of id 2 is retrived
+[2023-07-03 17:38:25,951] INFO imdb_app.api.views: User details of id 3 is retrived
+[2023-07-03 17:38:31,644] INFO imdb_app.api.views: User details of id 4 is retrived
+[2023-07-03 17:38:35,769] INFO imdb_app.api.views: User details of id 5 is retrived
+[2023-07-03 17:38:39,849] INFO imdb_app.api.views: User details of id 6 is retrived
+[2023-07-03 18:36:52,101] ERROR imdb_app.api.views: Error while deleting the userprofile type object 'UserProfileSerializer' has no attribute 'objects'
+[2023-07-03 18:37:37,210] INFO imdb_app.api.views: User details of id 6 is retrived
+[2023-07-03 18:37:43,691] ERROR imdb_app.api.views: Error while deleting the userprofile 'Logger' object has no attribute 'warining'
+[2023-07-03 18:38:03,961] INFO imdb_app.api.views: Error occured while retrivng the user details of id 6 : UserProfile matching query does not exist.
+[2023-07-03 18:38:19,749] INFO imdb_app.api.views: Error occured while retrivng the user details of id 5' : Field 'id' expected a number but got "5'".
+[2023-07-03 18:38:25,048] INFO imdb_app.api.views: User details of id 5 is retrived
+[2023-07-03 18:38:36,995] INFO imdb_app.api.views: User details of id 5 is retrived
+[2023-07-03 18:38:40,401] WARNING imdb_app.api.views: user details of id 5 deleted sucessfully
+[2023-07-03 18:38:40,403] ERROR imdb_app.api.views: Error while deleting the userprofile module 'rest_framework.status' has no attribute 'HTTP_'
+[2023-07-03 18:39:35,219] INFO imdb_app.api.views: Error occured while retrivng the user details of id 5 : UserProfile matching query does not exist.
+[2023-07-03 18:39:40,014] INFO imdb_app.api.views: User details of id 4 is retrived
+[2023-07-03 18:40:04,101] WARNING imdb_app.api.views: user details of id 4 deleted sucessfully
+[2023-07-03 18:46:41,369] INFO imdb_app.api.views: User details of id 3 is retrived
+[2023-07-03 18:46:54,646] ERROR imdb_app.api.views: Error while deleting the userprofile 'QuerySet' object has no attribute 'user_name'
+[2023-07-03 18:48:26,590] ERROR imdb_app.api.views: Error while deleting the userprofile You do not have permission to perform this action.
+[2023-07-03 18:48:42,313] INFO imdb_app.api.views: User details of id 3 is retrived
+[2023-07-03 18:48:52,402] ERROR imdb_app.api.views: Error while deleting the userprofile You do not have permission to perform this action.
+[2023-07-03 18:49:16,761] ERROR imdb_app.api.views: Error while deleting the userprofile You do not have permission to perform this action.
+[2023-07-03 18:49:29,204] ERROR imdb_app.api.views: Error while deleting the userprofile You do not have permission to perform this action.
+[2023-07-03 18:49:54,256] INFO imdb_app.api.views: User details of id 3 is retrived
+[2023-07-03 18:50:07,152] WARNING imdb_app.api.views: user details of id 3 deleted sucessfully
+[2023-07-03 18:50:12,486] INFO imdb_app.api.views: Error occured while retrivng the user details of id 3 : UserProfile matching query does not exist.
+[2023-07-03 21:42:45,215] INFO imdb_app.api.views: Retrived movie details
+[2023-07-03 21:44:09,055] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-07-03 21:45:09,207] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-07-03 21:45:13,754] INFO imdb_app.api.views: New OTT detail is created
+[2023-07-03 21:46:23,565] INFO imdb_app.api.views: New OTT detail is created
+[2023-07-03 21:47:51,389] INFO imdb_app.api.views: New OTT detail is created
+[2023-07-03 21:47:55,473] INFO imdb_app.api.views: Retrived OTT List sucessfully
+[2023-07-03 21:52:53,941] INFO imdb_app.api.views: Retrived movie details
+[2023-07-03 21:55:04,503] ERROR imdb_app.api.views: Error occurred while creating a new movie: {'category': [ErrorDetail(string='"Crime" is not a valid choice.', code='invalid_choice')]}
+[2023-07-03 21:55:22,017] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-03 21:57:07,762] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-03 21:58:44,643] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-03 22:00:07,086] ERROR imdb_app.api.views: Error occurred while creating a new movie: {'category': [ErrorDetail(string='"Thriller" is not a valid choice.', code='invalid_choice')]}
+[2023-07-03 22:00:26,505] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-03 22:01:55,809] ERROR imdb_app.api.views: Error occurred while creating a new movie: {'category': [ErrorDetail(string='"crime" is not a valid choice.', code='invalid_choice')]}
+[2023-07-03 22:02:04,949] ERROR imdb_app.api.views: Error occurred while creating a new movie: {'category': [ErrorDetail(string='"Crime" is not a valid choice.', code='invalid_choice')]}
+[2023-07-03 22:02:27,749] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-03 22:03:35,773] INFO imdb_app.api.views: New movie detail created successfully
+[2023-07-03 22:11:30,407] INFO imdb_app.api.views: Retrived movie details
+[2023-07-03 22:51:58,261] INFO imdb_app.api.views: Retrived movie details
+[2023-07-03 22:52:08,438] INFO imdb_app.api.views: Retrived movie details
+[2023-07-03 22:52:21,602] INFO imdb_app.api.views: Retrived movie details
+[2023-07-03 22:59:52,995] ERROR imdb_app.api.views: Error occurred while creating a new movie: {'ott_platfor_name': [ErrorDetail(string='Invalid ott platform name. Allowed names: Netflix, Amazonprime, Disny+hotstar, Zee5.', code='invalid')]}
+[2023-07-03 23:00:09,147] INFO imdb_app.api.views: Mail sent successfully to email: kushmj99@gmail.com
+[2023-07-03 23:00:12,483] INFO imdb_app.api.views: Mail sent successfully to email: kushmj33@gmail.com
+[2023-07-03 23:00:15,832] INFO imdb_app.api.views: Mail sent successfully to email: kushmj11@gmail.com
+[2023-07-03 23:00:15,833] INFO imdb_app.api.views: New movie detail created successfully
